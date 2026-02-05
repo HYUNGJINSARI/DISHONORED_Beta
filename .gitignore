@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Fab/Megascans/3D/Wooden_Interior_Wall_wbhobeedw/Raw/wbhobeedw_tier_0/Textures/T_wbhobeedw_8K_N.uasset
+Content/Fab/Megascans/Surfaces/Stone_Wall_vdbhdju/Raw/vdbhdju_tier_0/Textures/T_vdbhdju_8K_B.uasset
+Content/Fab/Megascans/Surfaces/Stone_Wall_vdbhdju/Raw/vdbhdju_tier_0/Textures/T_vdbhdju_8K_N.uasset
+Content/Fab/Megascans/Surfaces/Stone_Wall_vdbhdju/Raw/vdbhdju_tier_0/Textures/T_vdbhdju_8K_ORM.uasset
